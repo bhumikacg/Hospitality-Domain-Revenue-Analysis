@@ -46,6 +46,8 @@ Tracked and interpreted Occupancy Rate (OCR) and its impact on Revenue.
 - **⭐️ Rating Analysis**: Analyzed ratings by hotel type,city to understand their effect on revenue .
 
 
+**LinkedIn Post** : https://www.linkedin.com/feed/update/urn:li:ugcPost:7354404192582619136/
+
 
 
 
