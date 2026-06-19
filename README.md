@@ -1,6 +1,9 @@
 # 📊 Hospitality-Domain-Revenue-Analysis
 
+**LinkedIn Post -**  _[Revenue-Analysis](https://www.linkedin.com/feed/update/urn:li:ugcPost:7354404192582619136/)_
 
+**Slides of Project -**  _[Revenue-Analysis](https://github.com/bhumikacg/Business-Insights-360/blob/main/Business%20Insights%20-%20360.pdf)
+ 
 
 ### 🔍 Overview:
 
@@ -12,7 +15,7 @@ Hotel types are categorized into: Standard, Elite, Premium, Presidential.
 
 
 
-**Live Dashboard Link :** https://app.powerbi.com/view?r=eyJrIjoiODQ2ZTY5ZWItYzE2NC00MmUxLTlkMGQtOWIxOWE5ZmE4NTlkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+<!--**Live Dashboard Link :** https://app.powerbi.com/view?r=eyJrIjoiODQ2ZTY5ZWItYzE2NC00MmUxLTlkMGQtOWIxOWE5ZmE4NTlkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 -->
 
 
 
@@ -46,7 +49,7 @@ Tracked and interpreted Occupancy Rate (OCR) and its impact on Revenue.
 - **⭐️ Rating Analysis**: Analyzed ratings by hotel type,city to understand their effect on revenue .
 
 
-**LinkedIn Post** : https://www.linkedin.com/feed/update/urn:li:ugcPost:7354404192582619136/
+
 
 
 
