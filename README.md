@@ -2,7 +2,7 @@
 
 **LinkedIn Post -**  _[Revenue-Analysis](https://www.linkedin.com/feed/update/urn:li:ugcPost:7354404192582619136/)_
 
-**Slides of Project -**  _[Revenue-Analysis](https://github.com/bhumikacg/Business-Insights-360/blob/main/Business%20Insights%20-%20360.pdf)
+**Slides of Project -**   _[Revenue-Analysis](https://github.com/bhumikacg/Hospitality-Domain-Revenue-Analysis/blob/main/Slides%20of%20Revenue%20Analysis.pdf)_
  
 
 ### 🔍 Overview:
